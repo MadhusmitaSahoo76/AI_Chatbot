@@ -6,7 +6,7 @@ A simple and clean AI Chatbot UI built using **HTML**, **CSS**, and **JavaScript
 
 ## 📸 Demo
 
-![Chatbot Screenshot](screenshot/ChatBot2.png)
+![Chatbot Screenshot](ChatBot_2)
 
 ---
 
