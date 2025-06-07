@@ -34,4 +34,4 @@ A simple and clean AI Chatbot UI built using **HTML**, **CSS**, and **JavaScript
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot-html-css-js.git
+   https://github.com/MadhusmitaSahoo76/AI_Chatbot/blob/fb42ae216cb9109ef15c35fa9ec66968c3eb6ac0/ChatBot_1.png
