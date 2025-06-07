@@ -2,14 +2,6 @@
 
 A simple and clean AI Chatbot UI built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to create an interactive chatbot interface with a modern, responsive design and message input system.
 
----
-
-## 📸 Demo
-
-![Chatbot Screenshot]("C:\Users\HP\Downloads\Chatbot_2.png")
-
----
-
 ## 📌 Features
 
 - Beautiful chatbot popup layout
@@ -19,7 +11,6 @@ A simple and clean AI Chatbot UI built using **HTML**, **CSS**, and **JavaScript
 - Clean HTML, CSS, and JavaScript integration
 - Glassmorphism / modern UI styling
 
----
 
 ## 🚀 Technologies Used
 
@@ -27,8 +18,6 @@ A simple and clean AI Chatbot UI built using **HTML**, **CSS**, and **JavaScript
 - CSS3
 - Vanilla JavaScript
 - SVG icons
-
----
 
 ## 🛠️ How to Run
 
